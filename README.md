@@ -1,5 +1,5 @@
 # Comedy vs Action vs Drama
-Multimedia Authoring Midterm assignment. An debate about whether comedy, drama, or action is the best movie genre
+Multimedia Authoring Midterm assignment. A debate about whether comedy, drama, or action is the best movie genre.
 This is the repository we are creating as the midterm project. 
 
 ## Installation
