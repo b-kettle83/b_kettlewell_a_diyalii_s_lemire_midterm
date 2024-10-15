@@ -3,7 +3,12 @@ Multimedia Authoring Midterm assignment. An debate about whether comedy, drama, 
 This is the repository we are creating as the midterm project for our MMED1054 Multimedia Authoring Course.
 
 ## comedy vs drama vs action 
+
+Welcome to our midterm project about a friendly debate argument of which movie genre is better. Enjoy reading!
+
+
 Welcome to our midterm project about a friendly debate argument of which movie genre is better.
+
 
 ## Contributing 
 * Fork it!
@@ -12,6 +17,13 @@ Welcome to our midterm project about a friendly debate argument of which movie g
 * Push to the branch: git push origin my-new-feature
 * Submit a pull request :D
 ## History 
+
+Created on October 15, 2024 Made In-Class for Midterms
+
+## Credits 
+Officially Published by: ben, sam and Aayush
+### License 📄
+
 Created on October 20, 2023 Made In-Class for Midterms
 
 ## Credits 
